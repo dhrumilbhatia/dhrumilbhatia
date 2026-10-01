@@ -83,7 +83,7 @@ I am a computer science student at **SVMIT Bharuch**, based in Gujarat, India. I
   />
 </p>
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dhrumilbhatia&theme=flat&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## Explore More
 
