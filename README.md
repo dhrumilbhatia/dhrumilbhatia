@@ -3,13 +3,13 @@
 I am a computer science student at **SVMIT Bharuch**, based in Gujarat, India. I learn by building practical projects in data engineering, data science, machine learning, and generative AI.
 
 <p>
-  <a href="https://github.com/dhrumibhatia">
-    <img src="https://img.shields.io/github/followers/dhrumibhatia?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers" />
+  <a href="https://github.com/dhrumilbhatia">
+    <img src="https://img.shields.io/github/followers/dhrumilbhatia?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers" />
   </a>
-  <a href="https://github.com/dhrumibhatia?tab=repositories">
-    <img src="https://img.shields.io/github/stars/dhrumibhatia?label=Stars&style=for-the-badge&logo=github" alt="GitHub stars" />
+  <a href="https://github.com/dhrumilbhatia?tab=repositories">
+    <img src="https://img.shields.io/github/stars/dhrumilbhatia?label=Stars&style=for-the-badge&logo=github" alt="GitHub stars" />
   </a>
-  <a href="https://github.com/dhrumibhatia?tab=repositories">
+  <a href="https://github.com/dhrumilbhatia?tab=repositories">
     <img src="https://img.shields.io/badge/Public%20repositories-17-2ea44f?style=for-the-badge&logo=github" alt="17 public repositories" />
   </a>
 </p>
@@ -27,12 +27,12 @@ I am a computer science student at **SVMIT Bharuch**, based in Gujarat, India. I
 
 | Project | What I am exploring |
 | --- | --- |
-| [Data Engineering Journey](https://github.com/dhrumibhatia/Data_engineering_journey) | A structured path from data engineering fundamentals to job-ready projects |
-| [Machine Learning Zoomcamp 2026](https://github.com/dhrumibhatia/Machine-Learning-Zoomcamp-2026) | Machine learning practice and coursework |
-| [Q&A Application RAG](https://github.com/dhrumibhatia/Q-A-Application-RAG) | Question answering with Amazon Bedrock Knowledge Bases and RAGAS evaluation |
-| [Walmart Data Analysis](https://github.com/dhrumibhatia/Walmart_data_analysis) | Data analysis using SQL and Python |
-| [AI Bharat](https://github.com/dhrumibhatia/AI-Bharat) | A project based on the Ganga Swarupa Yojana |
-| [Django Blogpost Webapp](https://github.com/dhrumibhatia/Django-Blogpost-Webapp) | Learning Django by building a web application |
+| [Data Engineering Journey](https://github.com/dhrumilbhatia/Data_engineering_journey) | A structured path from data engineering fundamentals to job-ready projects |
+| [Machine Learning Zoomcamp 2026](https://github.com/dhrumilbhatia/Machine-Learning-Zoomcamp-2026) | Machine learning practice and coursework |
+| [Q&A Application RAG](https://github.com/dhrumilbhatia/Q-A-Application-RAG) | Question answering with Amazon Bedrock Knowledge Bases and RAGAS evaluation |
+| [Walmart Data Analysis](https://github.com/dhrumilbhatia/Walmart_data_analysis) | Data analysis using SQL and Python |
+| [AI Bharat](https://github.com/dhrumilbhatia/AI-Bharat) | A project based on the Ganga Swarupa Yojana |
+| [Django Blogpost Webapp](https://github.com/dhrumilbhatia/Django-Blogpost-Webapp) | Learning Django by building a web application |
 
 ## Technology Stack
 
@@ -65,12 +65,12 @@ I am a computer science student at **SVMIT Bharuch**, based in Gujarat, India. I
 
 <p>
   <img
-    src="https://github-readme-stats.vercel.app/api?username=dhrumibhatia&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=dhrumilbhatia&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
     alt="Dhrumil Bhatia's GitHub statistics"
     height="180"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrumibhatia&layout=compact&hide_border=true&theme=transparent&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrumilbhatia&layout=compact&hide_border=true&theme=transparent&langs_count=8"
     alt="Dhrumil Bhatia's most used programming languages"
     height="180"
   />
@@ -78,16 +78,16 @@ I am a computer science student at **SVMIT Bharuch**, based in Gujarat, India. I
 
 <p>
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=dhrumibhatia&hide_border=true&theme=transparent"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=dhrumilbhatia&hide_border=true&theme=transparent"
     alt="Dhrumil Bhatia's GitHub contribution streak"
   />
 </p>
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dhrumibhatia&theme=flat&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dhrumilbhatia&theme=flat&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Explore More
 
-You can find all of my projects and learning progress on [my GitHub profile](https://github.com/dhrumibhatia).
+You can find all of my projects and learning progress on [my GitHub profile](https://github.com/dhrumilbhatia).
 
 ---
 
