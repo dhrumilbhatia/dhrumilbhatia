@@ -10,7 +10,7 @@ I am a computer science student at **SVMIT Bharuch**, based in Gujarat, India. I
     <img src="https://img.shields.io/github/stars/dhrumilbhatia?label=Stars&style=for-the-badge&logo=github" alt="GitHub stars" />
   </a>
   <a href="https://github.com/dhrumilbhatia?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20repositories-17-2ea44f?style=for-the-badge&logo=github" alt="17 public repositories" />
+    <img src="https://img.shields.io/badge/Public%20repositories-18-2ea44f?style=for-the-badge&logo=github" alt="18 public repositories" />
   </a>
 </p>
 
